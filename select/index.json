@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "待ってて、彼岸で",
+  "base_artist": "rinri",
+  "createdAt": "2025-12-27T17:03:46.659562Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "待ってて、彼岸で",
+      "artist": "rinri",
+      "has_synced": false,
+      "path": "select/pl_01_待ってて、彼岸で_rinri.txt"
+    }
+  ]
+}
